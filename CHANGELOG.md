@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.3.0] - 2026-10-06
+
+### Changed
+- Upgrade of the following dependencies in order to support OTP 29
+    - brod
+    - snabbkaffe
+    - prometheous
+    - cowboy
+    - proper
+
 ## [1.2.0] - 2025-07-04
 
 ### Changed
